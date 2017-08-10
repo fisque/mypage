@@ -1,0 +1,35 @@
+.description {
+	color: #7C8B88;
+	max-width: 300px;
+	margin-right: 50px;
+	font-family: Verdana;
+	font-size: 10px;
+}
+
+.screenshot {
+	margin-right: 15px;
+	margin-left: 50px;
+}
+
+.app {
+	display: -webkit-flex;
+	display: flex;
+}
+
+.title {
+	color: white;
+	background-color: #38BEBE;
+	font-family: Arial;
+	font-size: 30px;
+	text-align: center;
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	max-width: 415px;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
